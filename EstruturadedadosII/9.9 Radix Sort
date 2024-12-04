@@ -1,0 +1,12 @@
+Para lidar com diferentes bases, o algoritmo precisa converter números para a base desejada e realizar operações nessa base.
+
+Base 10 (Decimal): Usam dígitos de 0 a 9.
+
+Base 2 (Binária): Usam dígitos 0 e 1.
+
+Conversão:
+Decimal para Binário: Divida por 2, anote restos e leia de baixo para cima.
+
+Binário para Decimal: Multiplique dígitos binários por 2 elevado à posição e some.
+
+Essas conversões permitem que algoritmos realizem operações matemáticas corretamente nas diferentes bases.
