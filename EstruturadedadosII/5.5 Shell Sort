@@ -1,0 +1,3 @@
+A escolha dos intervalos no Shell Sort afeta diretamente a eficiência. Este algoritmo começa com grandes intervalos e vai diminuindo-os até chegar a 1, ordenando a lista em cada passo.
+Sequências Longas: Reduzem rapidamente a desordem, mas podem ser menos eficientes no final.
+Sequências Curtas: Oferecem uma ordenação mais detalhada desde o início, mas podem precisar de mais passadas.
