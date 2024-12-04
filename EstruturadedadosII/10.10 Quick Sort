@@ -1,0 +1,8 @@
+O Quick Sort é eficiente na maioria dos casos:
+
+Listas Quase Ordenadas: Desempenho bom, geralmente 
+𝑂(𝑛log𝑛).
+
+Listas Completamente Desordenadas: Desempenho excelente na média 
+𝑂(𝑛log𝑛), mas pode ser 𝑂(𝑛2)no pior caso, dependendo do pivô.
+A escolha do pivô é crucial para garantir a eficiência do algoritmo.
