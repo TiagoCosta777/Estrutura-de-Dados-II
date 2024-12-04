@@ -1,0 +1,4 @@
+Interpolation Search pode ser mais rápido que o Binary Search quando os dados estão distribuídos uniformemente.
+Por exemplo, em listas de números sequenciais ou registros de temperaturas que seguem um padrão constante.
+Quando os dados são uniformes, o Interpolation Search pode localizar rapidamente onde o valor desejado provavelmente está,
+economizando tempo em comparação com a busca binária tradicional.
