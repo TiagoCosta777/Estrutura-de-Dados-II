@@ -1,0 +1,17 @@
+| Algoritmo             | Complexidade de Tempo | Complexidade de Espaço |
+|-----------------------|-----------------------|------------------------|
+| **Binary Search**     | O(log n)              | O(1)                   |
+| **Interpolation Search** | O(log log n)        | O(1)                   |
+| **Jump Search**       | O(√n)                 | O(1)                   |
+| **Exponential Search** | O(log n)             | O(1)                   |
+| **Ternary Search**    | O(log_3 n)            | O(1)                   |
+
+
+| Algoritmo             | Complexidade de Tempo              | Complexidade de Espaço       |
+|-----------------------|------------------------------------|------------------------------|
+| **Shell Sort**        | O(n^(3/2)) a O(n^2)                | O(1)                         |
+| **Merge Sort**        | O(n log n)                         | O(n)                         |
+| **Selection Sort**    | O(n^2)                             | O(1)                         |
+| **Quick Sort**        | O(n log n) em média, O(n^2) no pior caso | O(log n) a O(n)         |
+| **Bucket Sort**       | O(n+k)                             | O(n+k)                       |
+| **Radix Sort**        | O(nk)                              | O(n+k)                       |
