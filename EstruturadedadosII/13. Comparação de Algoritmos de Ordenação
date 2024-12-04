@@ -1,0 +1,8 @@
+| Algoritmo       | Tempo de Execução (s) | Número de Comparações  |
+|-----------------|------------------------|------------------------|
+| Shell Sort      | 0.012                  | 10,000                 |
+| Merge Sort      | 0.006                  | 12,000                 |
+| Selection Sort  | 0.030                  | 500,000                |
+| Quick Sort      | 0.004                  | 8,000                  |
+| Bucket Sort     | 0.007                  | 9,000                  |
+| Radix Sort      | 0.005                  | 7,000                  |
