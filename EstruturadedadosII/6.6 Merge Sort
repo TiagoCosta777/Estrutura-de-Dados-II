@@ -1,0 +1,5 @@
+significa:
+Dividir: Separar a lista em sublistas menores até restar apenas um elemento.
+Conquistar: Mesclar essas sublistas ordenadas.
+Combinar: Reunir todas as sublistas em uma lista ordenada completa.
+Simplificando, ele quebra o problema em pedaços menores e resolve cada pedaço antes de juntar tudo novamente.
