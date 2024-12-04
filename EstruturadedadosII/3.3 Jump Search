@@ -1,0 +1,12 @@
+O Binary Search é mais eficiente que o Jump Search em listas grandes.
+Tempos de Execução:
+Binary Search: 𝑂(log𝑛)
+
+Jump Search: 𝑂(𝑛)
+
+Resumo:
+Binary Search é mais rápido em listas de qualquer tamanho, especialmente grandes.
+
+Jump Search é menos eficiente, pois realiza mais "saltos".
+
+Em geral, use Binary Search para uma busca mais rápida e eficiente. 
