@@ -1,0 +1,7 @@
+O Ternary Search é mais eficiente que o Binary Search em situações específicas:
+
+Funções Unimodais: Para encontrar o máximo ou mínimo em funções com um único pico ou vale.
+
+Grandes Intervalos com Dados Uniformes: Reduz mais rapidamente o espaço de busca.
+
+Pesquisas Contínuas: Oferece uma divisão mais precisa do intervalo.
