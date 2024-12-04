@@ -1,0 +1,6 @@
+| Algoritmo            | Tamanho Pequeno (n=100) | Tamanho Médio (n=10,000) | Tamanho Grande (n=1,000,000) |
+|----------------------|--------------------------|---------------------------|-------------------------------|
+| **Binary Search**    | O(log 100) ≈ 6.64        | O(log 10,000) ≈ 13.29     | O(log 1,000,000) ≈ 19.93      |
+| **Interpolation Search** | O(log log 100) ≈ 2.66  | O(log log 10,000) ≈ 3.7    | O(log log 1,000,000) ≈ 4.26   |
+| **Jump Search**      | O(√100) = 10             | O(√10,000) = 100          | O(√1,000,000) = 1,000         |
+| **Exponential Search** | O(log 100) ≈ 6.64       | O(log 10,000) ≈ 13.29     | O(log 1,000,000) ≈ 19.93      |
