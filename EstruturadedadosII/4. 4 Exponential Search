@@ -1,0 +1,6 @@
+O Exponential Search mistura saltos rápidos (como o Jump Search) com uma pesquisa mais precisa (como o Binary Search):
+Etapa 1: Faz saltos exponenciais (1, 2, 4, 8, etc.) para encontrar um intervalo.
+Etapa 2: Realiza uma pesquisa binária dentro desse intervalo.
+Desempenho:
+Listas Pequenas: Rápido, mas diferença pequena.
+Listas Grandes: Muito eficiente, reduzindo rapidamente a área de busca.
