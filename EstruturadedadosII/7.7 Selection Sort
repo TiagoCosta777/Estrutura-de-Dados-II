@@ -1,0 +1,7 @@
+O Selection Sort:
+Funciona bem para listas pequenas.
+É moderado em listas médias.
+É ineficiente para listas grandes.
+Sua complexidade é 
+𝑂(𝑛2), o que significa que o número de comparações cresce rapidamente com o aumento do tamanho da lista,
+tornando-o menos eficiente para listas maiores. Assim, ele é mais adequado para listas menores.
